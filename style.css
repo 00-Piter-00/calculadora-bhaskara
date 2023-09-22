@@ -15,7 +15,8 @@ body {
 }
 body h1 {
     position: absolute;
-    top: 25px;
+    top: 50px;
+    font-size: 25px;
 }
 #res-container {
     height: 415px;
